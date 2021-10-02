@@ -18,3 +18,5 @@ This repository consists of mezzo-level projects that undertake a simple task an
 - **All PRs must be made from a Branch. Create a separate branch for every Issue you are working upon and then create a PR.**
 - **In your code file, add (Inside a multiline comment) Sample Input and Output at the end of the file along with Time and Space Complexity.**
 - **PR should be created within a week of you being assigned to it.**
+
+## Don't know how to create a PR? Refer this: [Steps to create a PR](Step_For_PR.md)
