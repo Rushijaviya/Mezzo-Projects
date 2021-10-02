@@ -5,8 +5,8 @@ This repository consists of mezzo-level projects that undertake a simple task an
 * Don't add "hello world" programs.
 * Don't repeat code that already exists.
 * You can add code of different languague that do same thing.
-* spam PRs will be marked "spam"/"invalid".
-* write in any language.
+* Spam PRs will be marked "spam"/"invalid".
+* Write in any language.
 * If you want add different language then first make folder of it and then add code in it.
 * Feel free to contribute in any way you want.
 * Make sure to follow the contribution guidelines listed below.
