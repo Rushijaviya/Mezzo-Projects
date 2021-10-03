@@ -22,3 +22,9 @@ This repository consists of mezzo-level projects that undertake a simple task an
 - **PR should be created within a week of you being assigned to it.**
 
 ## Don't know how to create a PR? Refer this: [Steps to create a PR](Step_For_PR.md)
+
+### NOTE
+
+* Make Sure you commit your changes in a new branch.
+* Make Sure you Give proper name to your files describing the addition.
+* Also Make Sure you comment your code wherever necessary.
